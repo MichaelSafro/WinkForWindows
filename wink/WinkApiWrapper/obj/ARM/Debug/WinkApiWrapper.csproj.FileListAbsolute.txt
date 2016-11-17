@@ -1,0 +1,17 @@
+C:\Users\Michael\documents\visual studio 2015\Projects\WinkUniversal\WinkApiWrapper\bin\ARM\Debug\WinkApiWrapper.dll
+C:\Users\Michael\documents\visual studio 2015\Projects\WinkUniversal\WinkApiWrapper\bin\ARM\Debug\WinkApiWrapper.pdb
+C:\Users\Michael\documents\visual studio 2015\Projects\WinkUniversal\WinkApiWrapper\bin\ARM\Debug\WinkApiWrapper.pri
+C:\Users\Michael\documents\visual studio 2015\Projects\WinkUniversal\WinkApiWrapper\obj\ARM\Debug\WinkApiWrapper.dll
+C:\Users\Michael\documents\visual studio 2015\Projects\WinkUniversal\WinkApiWrapper\obj\ARM\Debug\WinkApiWrapper.pdb
+C:\Users\Michael\documents\visual studio 2015\Projects\WinkUniversal\WinkApiWrapper\obj\ARM\Debug\priconfig.xml
+C:\Users\Michael\documents\visual studio 2015\Projects\WinkUniversal\WinkApiWrapper\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\Michael\documents\visual studio 2015\Projects\WinkUniversal\WinkApiWrapper\obj\ARM\Debug\layout.resfiles
+C:\Users\Michael\documents\visual studio 2015\Projects\WinkUniversal\WinkApiWrapper\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Users\Michael\documents\visual studio 2015\Projects\WinkUniversal\WinkApiWrapper\obj\ARM\Debug\resources.resfiles
+C:\Users\Michael\documents\visual studio 2015\Projects\WinkUniversal\WinkApiWrapper\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\Michael\documents\visual studio 2015\Projects\WinkUniversal\WinkApiWrapper\obj\ARM\Debug\pri.resfiles
+C:\Users\Michael\documents\visual studio 2015\Projects\WinkUniversal\WinkApiWrapper\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\Michael\documents\visual studio 2015\Projects\WinkUniversal\WinkApiWrapper\obj\ARM\Debug\qualifiers.txt
+C:\Users\Michael\documents\visual studio 2015\Projects\WinkUniversal\WinkApiWrapper\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\Michael\documents\visual studio 2015\Projects\WinkUniversal\WinkApiWrapper\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Michael\documents\visual studio 2015\Projects\WinkUniversal\WinkApiWrapper\obj\ARM\Debug\WinkApiWrapper.csprojResolveAssemblyReference.cache

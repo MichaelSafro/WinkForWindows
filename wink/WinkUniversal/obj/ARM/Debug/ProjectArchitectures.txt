@@ -1,0 +1,2 @@
+C:\Users\Michael\documents\visual studio 2015\Projects\WinkUniversal\WinkApiWrapper\WinkApiWrapper.csproj;arm
+C:\Users\Michael\documents\visual studio 2015\Projects\WinkUniversal\WinkUniversal\WinkUniversal.csproj;arm

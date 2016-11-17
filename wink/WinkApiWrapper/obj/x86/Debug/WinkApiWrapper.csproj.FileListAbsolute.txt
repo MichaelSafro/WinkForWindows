@@ -1,0 +1,49 @@
+c:\Users\Michael\Documents\Visual Studio 2015\Projects\WinkRemote\WinkApiWrapper\bin\x86\Debug\WinkApiWrapper.dll
+c:\Users\Michael\Documents\Visual Studio 2015\Projects\WinkRemote\WinkApiWrapper\bin\x86\Debug\WinkApiWrapper.pdb
+c:\Users\Michael\Documents\Visual Studio 2015\Projects\WinkRemote\WinkApiWrapper\bin\x86\Debug\WinkApiWrapper.pri
+c:\Users\Michael\Documents\Visual Studio 2015\Projects\WinkRemote\WinkApiWrapper\obj\x86\Debug\WinkApiWrapper.csprojResolveAssemblyReference.cache
+c:\Users\Michael\Documents\Visual Studio 2015\Projects\WinkRemote\WinkApiWrapper\obj\x86\Debug\WinkApiWrapper.dll
+c:\Users\Michael\Documents\Visual Studio 2015\Projects\WinkRemote\WinkApiWrapper\obj\x86\Debug\WinkApiWrapper.pdb
+c:\Users\Michael\Documents\Visual Studio 2015\Projects\WinkRemote\WinkApiWrapper\obj\x86\Debug\priconfig.xml
+c:\Users\Michael\Documents\Visual Studio 2015\Projects\WinkRemote\WinkApiWrapper\obj\x86\Debug\priconfig.xml.intermediate
+c:\Users\Michael\Documents\Visual Studio 2015\Projects\WinkRemote\WinkApiWrapper\obj\x86\Debug\layout.resfiles
+c:\Users\Michael\Documents\Visual Studio 2015\Projects\WinkRemote\WinkApiWrapper\obj\x86\Debug\layout.resfiles.intermediate
+c:\Users\Michael\Documents\Visual Studio 2015\Projects\WinkRemote\WinkApiWrapper\obj\x86\Debug\resources.resfiles
+c:\Users\Michael\Documents\Visual Studio 2015\Projects\WinkRemote\WinkApiWrapper\obj\x86\Debug\resources.resfiles.intermediate
+c:\Users\Michael\Documents\Visual Studio 2015\Projects\WinkRemote\WinkApiWrapper\obj\x86\Debug\pri.resfiles
+c:\Users\Michael\Documents\Visual Studio 2015\Projects\WinkRemote\WinkApiWrapper\obj\x86\Debug\pri.resfiles.intermediate
+c:\Users\Michael\Documents\Visual Studio 2015\Projects\WinkRemote\WinkApiWrapper\obj\x86\Debug\qualifiers.txt
+c:\Users\Michael\Documents\Visual Studio 2015\Projects\WinkRemote\WinkApiWrapper\obj\x86\Debug\qualifiers.txt.intermediate
+c:\Users\Michael\Documents\Visual Studio 2015\Projects\WinkRemote\WinkApiWrapper\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\WinkUniversal\WinkApiWrapper\obj\x86\Debug\WinkApiWrapper.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\WinkUniversal\WinkApiWrapper\obj\x86\Debug\WinkApiWrapper.pdb
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\WinkUniversal\WinkApiWrapper\bin\x86\Debug\WinkApiWrapper.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\WinkUniversal\WinkApiWrapper\bin\x86\Debug\WinkApiWrapper.pdb
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\WinkUniversal\WinkApiWrapper\bin\x86\Debug\WinkApiWrapper.pri
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\WinkUniversal\WinkApiWrapper\obj\x86\Debug\priconfig.xml
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\WinkUniversal\WinkApiWrapper\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\WinkUniversal\WinkApiWrapper\obj\x86\Debug\layout.resfiles
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\WinkUniversal\WinkApiWrapper\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\WinkUniversal\WinkApiWrapper\obj\x86\Debug\resources.resfiles
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\WinkUniversal\WinkApiWrapper\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\WinkUniversal\WinkApiWrapper\obj\x86\Debug\pri.resfiles
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\WinkUniversal\WinkApiWrapper\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\WinkUniversal\WinkApiWrapper\obj\x86\Debug\qualifiers.txt
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\WinkUniversal\WinkApiWrapper\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\WinkUniversal\WinkApiWrapper\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\dev\wink\WinkApiWrapper\bin\x86\Debug\WinkApiWrapper.dll
+C:\dev\wink\WinkApiWrapper\bin\x86\Debug\WinkApiWrapper.pdb
+C:\dev\wink\WinkApiWrapper\bin\x86\Debug\WinkApiWrapper.pri
+C:\dev\wink\WinkApiWrapper\obj\x86\Debug\WinkApiWrapper.dll
+C:\dev\wink\WinkApiWrapper\obj\x86\Debug\WinkApiWrapper.pdb
+C:\dev\wink\WinkApiWrapper\obj\x86\Debug\priconfig.xml
+C:\dev\wink\WinkApiWrapper\obj\x86\Debug\priconfig.xml.intermediate
+C:\dev\wink\WinkApiWrapper\obj\x86\Debug\layout.resfiles
+C:\dev\wink\WinkApiWrapper\obj\x86\Debug\layout.resfiles.intermediate
+C:\dev\wink\WinkApiWrapper\obj\x86\Debug\resources.resfiles
+C:\dev\wink\WinkApiWrapper\obj\x86\Debug\resources.resfiles.intermediate
+C:\dev\wink\WinkApiWrapper\obj\x86\Debug\pri.resfiles
+C:\dev\wink\WinkApiWrapper\obj\x86\Debug\pri.resfiles.intermediate
+C:\dev\wink\WinkApiWrapper\obj\x86\Debug\qualifiers.txt
+C:\dev\wink\WinkApiWrapper\obj\x86\Debug\qualifiers.txt.intermediate
+C:\dev\wink\WinkApiWrapper\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
